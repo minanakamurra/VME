@@ -24,9 +24,11 @@ https://fonts.google.com/noto/specimen/Noto+Sans
 
 @font-face {
     font-family: 'comic sans';
-
     font-weight: 400;
     font-display: swap;
-
   }
+
+.tl-timeline {
+  background: black;
+}
   
